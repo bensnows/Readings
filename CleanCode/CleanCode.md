@@ -58,10 +58,15 @@
     然而，開發者都曾感受到截止期限的壓力，所以只好產生一些爛程式來達到目標
     總之，他們並沒有花時間來讓開發速度變得更快
 
+    但是.....爛程式真的能夠趕上截止日嗎？
+    事實上，爛程式只會讓開發速度變得更慢
+    在截止日期前完成工作的唯一方法，讓開發速度變快的唯一方法
+    就是隨時隨地的，盡可能確保程式碼都盡可能的「整齊潔淨」
 
 
-
-
+### 名人們怎麼說CleanCode
+![image](https://github.com/bensnows/Readings/blob/main/CleanCode/Bjarne_stroustrup.png)
+![image](https://github.com/bensnows/Readings/blob/main/CleanCode/Ward_Cunnubgham.png)
 
     
 
