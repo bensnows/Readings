@@ -2,6 +2,8 @@
 # Clean Code 無瑕的程式碼
 @Author Robert C. Martin 
 
+![image](https://github.com/bensnows/Readings/blob/main/CleanCode/book.jpeg)
+
 ## 索引
 ### 故事：
     在 80' 後期有家公司開發了殺手級的程式
@@ -21,4 +23,6 @@
     我們努力蹚過不好的程式碼，就像艱難地走在佈滿糾結荊棘的泥潭上和隱藏的陷阱
     努力尋找出路，希望得到一些提示與線索，然而卻是看到越來越多無意義的程式碼
 
+### 雜亂程式的代價：
+    ![image](https://github.com/bensnows/Readings/blob/main/CleanCode/ch01-1.png)
 
