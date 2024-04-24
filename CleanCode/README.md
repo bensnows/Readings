@@ -3,7 +3,7 @@
 
 ![image](https://github.com/bensnows/Readings/blob/main/CleanCode/photo/index/book.jpeg)
 
-![image](https://github.com/bensnows/Readings/blob/main/CleanCodephoto/index/publications.png)
+![image](https://github.com/bensnows/Readings/blob/main/CleanCode/photo/index/publications.png)
 
 # Chapters
 ## [Chapter1](https://github.com/bensnows/Readings/blob/main/CleanCode/Chapter1.md)無瑕的程式碼
