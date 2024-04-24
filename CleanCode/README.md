@@ -6,5 +6,5 @@
 ![image](https://github.com/bensnows/Readings/blob/main/CleanCode/publications.png)
 
 # Chapters
-## 無瑕的程式碼[Chapter1](https://github.com/bensnows/Readings/blob/main/CleanCode/Chapter1.md)
-## 有意義的命名[Chapter2](https://github.com/bensnows/Readings/blob/main/CleanCode/Chapter2.md)
+## [Chapter1](https://github.com/bensnows/Readings/blob/main/CleanCode/Chapter1.md)無瑕的程式碼
+## [Chapter2](https://github.com/bensnows/Readings/blob/main/CleanCode/Chapter2.md)有意義的命名
