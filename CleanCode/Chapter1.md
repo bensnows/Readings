@@ -21,7 +21,7 @@
 
 ### 雜亂程式的代價：
 隨著時間的推移，開發的效率越來越差
-![image](https://github.com/bensnows/Readings/blob/main/CleanCode/ch01-1.png)
+![image](https://github.com/bensnows/Readings/blob/main/CleanCode/photo/chapter1/ch01-1.png)
 
 ### 態度：
     是否曾遇過本需要花幾小時就能完成的事，卻讓你痛不欲生了好幾個禮拜？
@@ -60,8 +60,8 @@
 
 
 ### 名人們怎麼說CleanCode
-![image](https://github.com/bensnows/Readings/blob/main/CleanCode/Bjarne_stroustrup.png)
-![image](https://github.com/bensnows/Readings/blob/main/CleanCode/Ward_Cunnubgham.png)
+![image](https://github.com/bensnows/Readings/blob/main/CleanCode/photo/chapter1/Bjarne_stroustrup.png)
+![image](https://github.com/bensnows/Readings/blob/main/CleanCode/photo/chapter1/Ward_Cunnubgham.png)
 
     
 ### 關鍵字
