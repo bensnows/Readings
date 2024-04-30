@@ -12,9 +12,9 @@ public List<int[]> getThem(){
 
 ## 問題在哪？
     代碼中包含的信息：
-    1. 一個搜集的List
-    2. 一個迭代的清單
-    3. 一個簡易的數據判斷
+    1. 一個List
+    2. 一個迭代(for each)
+    3. 一個數據判斷(if)
     4. 將目標加入List
 
     問題不在於程式碼的簡易度，而在於程式碼的隱含性
@@ -66,7 +66,7 @@ public List<Cell> getFlaggedCells() {
 1. Example 2:
     1. zork
     1. theZork
-    1. 解析：開發為了避開 zork 已經被使用，特意增加 the改變字詞，但卻需要花費更多時間釐清宣告變數的具體意義
+    1. 解析：開發為了避開 zork 已經被使用，特意增加 the 改變字詞，但卻需要花費更多時間釐清宣告變數的具體意義
 1. Example 3:
     1. variable => 無意義詞
     1. nameString vs name?
